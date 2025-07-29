@@ -8,7 +8,7 @@ public class HmrsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HmrsApplication.class, args);
-		System.out.println("🚀 Application running in BETA branch");
+		System.out.println("Application running in PROD branch by sanket");
 
 	}
 
